@@ -1,5 +1,5 @@
 {
-    "name": "guardrail-sdk",
+    "name": "@redwing/guardrail-sdk",
     "version": "1.0.0",
     "description": "TypeScript SDK for Guardrail API",
     "main": "dist/index.js",
@@ -17,4 +17,3 @@
       "typescript": "^5.0.0"
     }
   }
-  
